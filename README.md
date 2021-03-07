@@ -1,2 +1,2 @@
 # hello-world
-Anstarter repository
+An starter repository
